@@ -1,7 +1,7 @@
 [![Build Status](https://jenkins.gruenheid.me/buildStatus/icon?job=result-build)](https://jenkins.gruenheid.me/job/result-build/)
 
 
-Example Voting App
+Example Voting App ...
 =========
 
 Getting started
