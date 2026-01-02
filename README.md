@@ -1,3 +1,5 @@
+TEST
+
 [![Build Status](https://jenkins.gruenheid.me/buildStatus/icon?job=instavote%2Fworker-build)](https://jenkins.gruenheid.me/job/instavote/job/worker-build/)
 
 [![Build Status](https://jenkins.gruenheid.me/buildStatus/icon?job=instavote%2Fworker-test&subject=UnitTest)](https://jenkins.gruenheid.me/job/instavote/job/worker-test/)
